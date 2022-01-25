@@ -1,0 +1,1 @@
+This is a project to test the skills I acquired from TOP, and it will be synched to github, which is also something I learned beside using Git and VS Code.
